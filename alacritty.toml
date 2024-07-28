@@ -8,20 +8,20 @@ args = ["-l", "-c", "tmux"]
 size = 12.0
 
 [font.normal]
-family = "JetBrains Mono"
+family = "FiraCode Nerd Font"
 style = "Regular"
 
 
 [font.bold]
-family = "JetBrains Mono"
+family = "FiraCode Nerd Font"
 style = "Bold"
 
 
 [font.italic]
-family = "JetBrains Mono"
+family = "FiraCode Nerd Font"
 style = "Italic"
 
 [font.bold_italic]
-family = "JetBrains Mono"
+family = "FiraCode Nerd Font"
 style = "Bold Italic"
 
