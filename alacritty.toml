@@ -1,4 +1,7 @@
-import = ["~/.config/alacritty/dracula.toml"]
+import = [
+    # "~/.config/alacritty/dracula.toml"
+    "~/.config/alacritty/catppuccin-mocha.toml"
+]
 
 [shell]
 program = "/bin/zsh"
