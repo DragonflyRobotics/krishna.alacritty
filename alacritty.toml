@@ -28,3 +28,5 @@ style = "Italic"
 family = "FiraCode Nerd Font"
 style = "Bold Italic"
 
+[window]
+opacity = 0.7
