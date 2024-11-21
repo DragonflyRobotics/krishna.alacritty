@@ -1,9 +1,5 @@
-import = [
-    # "~/.config/alacritty/dracula.toml"
-    "~/.config/alacritty/catppuccin-mocha.toml"
-]
 
-[shell]
+[terminal.shell]
 program = "/bin/zsh"
 args = ["-l", "-c", "tmux"]
 
@@ -29,4 +25,12 @@ family = "FiraCode Nerd Font"
 style = "Bold Italic"
 
 [window]
-opacity = 0.7
+opacity = 0.9
+
+[general]
+import = [
+    # "~/.config/alacritty/dracula.toml"
+    "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[terminal]
